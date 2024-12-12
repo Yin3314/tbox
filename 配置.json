@@ -1,0 +1,18 @@
+{
+	"sites": [{
+		"key": "wogg",
+		"name": "🧸玩偶┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://raw.githubusercontent.com/Yin3314/tbox/refs/heads/main/wogg.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	}],
+	"flags": ["heimuer","bilibili1","ikm3u8", "mytvb", "mytv", "youku", "优酷", "优酷视频", "qq", "腾讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "m1905", "xigua", "letv", "leshi", "乐视", "sohu", "搜狐", "搜狐视频", "tudou", "pptv", "mgtv", "芒果", "imgo", "芒果TV", "bilibili", "哔哩", "哔哩哔哩", "B站", "renrenmi", "wasu", "ltnb", "rx", "SLYS4k", "BYGA", "BYGB", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "xmm", "xigua", "m1905", "funshion"]
+}
